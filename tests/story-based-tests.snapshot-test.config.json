@@ -16,6 +16,7 @@
 		"/.tmp-amd/",
 		"/.tmp-commonjs/",
 		"/.tmp-es/",
+		"/.tmp-esm/",
 		"/.tmp-npm/"
 	],
 	"transform": {
